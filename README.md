@@ -1,4 +1,4 @@
-## Hi there 👋
+## 방문을 환영합니다 👋
 
 <!--
 **studydong/studydong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
