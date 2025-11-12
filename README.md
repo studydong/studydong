@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Studydong%20Github%20Profile%20👋&animation=twinkling&fontSize=55&" />
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Studydong%20Github%20Profile%20👋&animation=twinkling&fontSize=55&fontColor=ba55d3" />
 
 
 <a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C99?style=flat&logo=velog&logoColor=white"/></a>
