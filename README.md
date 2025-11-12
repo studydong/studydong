@@ -4,7 +4,10 @@
 <a href="love119p@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="[www.youtube.com/channel/UCxDQvRRDNcWsO9h-PTsRVCQ](https://youtube.com/channel/UCxDQvRRDNcWsO9h-PTsRVCQ?si=RPgQuiZw3IMKOIYn)" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtubemusic&logoColor=white"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=studydong&show_icons=true&theme=swift)
+<p>🤖 <strong>Studyong Github Status</strong></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=studydong&show_icons=true&theme=aura)
+
 <!--
 **studydong/studydong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
