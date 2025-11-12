@@ -1,6 +1,7 @@
 # 저의 깃허브 프로필에 방문하신 분들을 환영합니다 👋
 
-<a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-green?style=social&logo=velog&logoColor=#20C99"/></a>
+<a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>
+<a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-green?style=flat&logo=gmail&logoColor=#EA4335"/></a>
 
 
 <!--
