@@ -1,7 +1,8 @@
 # 저의 깃허브 프로필에 방문하신 분들을 환영합니다 👋
 
-<a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-white?style=flat&logo=velog&logoColor=#20C997"/></a>
-<a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-green?style=flat&logo=gmail&logoColor=#EA4335"/></a>
+<a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C99?style=flat&logo=velog&logoColor=white"/></a>
+<a href="love119p@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="www.youtube.com/channel/UCxDQvRRDNcWsO9h-PTsRVCQ" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtubemusic&logoColor=white"/></a>
 
 
 <!--
