@@ -1,10 +1,10 @@
-# 저의 깃허브 프로필에 방문하신 분들을 환영합니다 👋
+# Studydong Github Profile 👋
 
 <a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C99?style=flat&logo=velog&logoColor=white"/></a>
 <a href="love119p@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="[www.youtube.com/channel/UCxDQvRRDNcWsO9h-PTsRVCQ](https://youtube.com/channel/UCxDQvRRDNcWsO9h-PTsRVCQ?si=RPgQuiZw3IMKOIYn)" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtubemusic&logoColor=white"/></a>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=studydong&show_icons=true&theme=swift)
 <!--
 **studydong/studydong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
