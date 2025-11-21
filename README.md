@@ -6,7 +6,7 @@
 <!-- 뱃지 -->
 <div align="center">
 <a href="https://velog.io/@masking/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C99?style=flat&logo=velog&logoColor=white"/></a>
-<a href="love119p@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="mailto:love119p@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="[www.youtube.com/channel/UCxDQvRRDNcWsO9h-PTsRVCQ](https://youtube.com/channel/UCxDQvRRDNcWsO9h-PTsRVCQ?si=RPgQuiZw3IMKOIYn)" target="_blank"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtubemusic&logoColor=white"/></a>
 </div>
 <br>
